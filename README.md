@@ -1,3 +1,4 @@
+
 # Final Project
 
 ## Demo Day
@@ -9,4 +10,3 @@ Can be found [here](https://www.google.com/calendar/embed?src=theironyard.com_7p
 ## Proposal and Daily Deadlines
 
 - 7/29 : Personal Schedule, Brand and Discovery exploration, proposal [template](/proposal-temp.md)
-- 
